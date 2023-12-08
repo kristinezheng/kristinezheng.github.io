@@ -1,6 +1,8 @@
-<p> Hello World </p>
+<!-- <!DOCTYPE html>
 <head>
+<title>Custom Mushroom Example</title>
 <script type = "text/javascript" src="static/mushroom_constructor.js"></script> 
+</head>
 
 <button onclick="random()">Random Mushroom</button>
 
@@ -20,6 +22,44 @@ function random_color(){}
     mid_color= ${block.colors.mid_color}
     stalk_color = ${block.colors.stalk_color}
     > 
-</custom-mushroom>
+</custom-mushroom> -->
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Custom Mushroom Page</title>
 </head>
+<body>
+    <p>Hello World</p>
+    <button onclick="randomMushroom()">Random Mushroom</button>
+    <custom-mushroom id="mushroomElement"></custom-mushroom>
+
+    <script src="js/mushroom_constructor.js"></script>
+    <script>
+        function randomMushroom() {
+            // Generate random values for mushroom properties
+            var stalky = Math.floor(Math.random() * 100) + 200; // Random value between 200 and 300
+            var dotr = Math.floor(Math.random() * 20) + 30; // Random value between 30 and 50
+            var caprx = 450; // Keeping constant for this example
+            var capry = 550; // Keeping constant for this example
+            var cap_color = "#" + Math.floor(Math.random()*16777215).toString(16);
+            var mid_color = "#" + Math.floor(Math.random()*16777215).toString(16);
+            var stalk_color = "#" + Math.floor(Math.random()*16777215).toString(16);
+
+            // Update custom-mushroom element attributes
+            var mushroom = document.getElementById('mushroomElement');
+            mushroom.setAttribute('stalky', stalky);
+            mushroom.setAttribute('dotr', dotr);
+            mushroom.setAttribute('caprx', caprx);
+            mushroom.setAttribute('capry', capry);
+            mushroom.setAttribute('cap_color', cap_color);
+            mushroom.setAttribute('mid_color', mid_color);
+            mushroom.setAttribute('stalk_color', stalk_color);
+        }
+    </script>
+</body>
+</html>
+
+
+
