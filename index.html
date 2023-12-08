@@ -1,80 +1,38 @@
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>Custom Mushroom Example</title>
-<script type = "text/javascript" src="static/mushroom_constructor.js"></script> 
+    <meta charset="UTF-8">
+    <title>Custom Mushroom Page</title>
 </head>
 <body>
-<button onclick="random_num()">Random Mushroom</button> -->
+    <p>Hello World</p>
+    <button onclick="randomMushroom()">Random Mushroom</button>
+    <custom-mushroom id="mushroomElement"></custom-mushroom>
 
-<!-- <script>
- function random_num(){
-    document.getElementById("one").innerHTML = Math.floor(Math.random() * 10);
-}
-
-function random_color(){}
-    document.getElementById("one").innerHTML = Math.floor(Math.random()*16777215).toString(16);
-</script> -->
-
-<!-- <custom-mushroom 
-    stalky = ${stalky}
-    dotr = ${dot}
-    cap_color = ${block.colors.cap_color}
-    mid_color= ${block.colors.mid_color}
-    stalk_color = ${block.colors.stalk_color}
-    > 
-</custom-mushroom> -->
-
-<!-- <custom-mushroom 
-    stalky = 
-    dotr = ${dot}
-    cap_color = ${block.colors.cap_color}
-    mid_color= ${block.colors.mid_color}
-    stalk_color = ${block.colors.stalk_color}
-    > 
-</custom-mushroom>
-
-</body> -->
-
-<html>
-    <head>
-        <title>Testing Sun</title>
-        <div id="mySun"></div>
-    </head>
+    <script src="js/mushroom_constructor.js"></script>
     <script>
-        function sunshape(addrays = true, rayradius = 500, sunheight = 500, raycolor = "#FFAA33", gradient1 = "#FFFF00", gradient2 = "#FFA500", gradient3 = "#FF0000"){
-            console.log(sunheight)
-            var header = `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1500 1500 " style="enable-background:new 50 -50 950 1500 ;" xml:space="preserve"> <defs></defs>` ;
-            
-            var raypath = `<clipPath id="sun-ray"> <circle cx="500" cy="500" r="${rayradius}" ></circle></clipPath>`;
-            var rays = `
-                        <line id = "horizontal-line" x1="0" y1="${sunheight-20}" x2="1000" y2= "${sunheight-20}" stroke="${raycolor}" stroke-width="40" clip-path="url(#sun-ray)" ></line>
-                        <line id = "vertical-line" x1="500" y1="${sunheight}" x2="500" y2="-50" stroke="${raycolor}" stroke-width="40" clip-path="url(#sun-ray)" ></line>
-                        <line id = "left-upper" x1="500" y1="${sunheight-50}" x2="0" y2="50" stroke="${raycolor}" stroke-width="40" clip-path="url(#sun-ray)" ></line>
-                        <line id = "right-upper" x1="500" y1="${sunheight-50}" x2="1000" y2="150" stroke="${raycolor}" stroke-width="40" clip-path="url(#sun-ray)" ></line>   
-                    `;
-            
-            var sungradient = `
-                        <radialGradient id="Center-Gradient">
-                            <stop offset="10%" stop-color="${gradient1}" />
-                            <stop offset="65%" stop-color="${gradient2}" />
-                            <stop offset="95%" stop-color="${gradient3}" />
-                        </radialGradient>`;
-            
-            var sunclip = `<clipPath id="sun-half"> <rect x="0" y="0" width="900" height= "${sunheight}"}></rect></clipPath>`;
-            var suncircle = `<circle id = "cap_circle" cx="500" cy="500" r="300" stroke = "${raycolor}" stroke-width="5" fill="url('#Center-Gradient')" clip-path="url(#sun-half)"></circle>`;
+        function randomMushroom() {
+            // Generate random values for mushroom properties
+            var stalky = Math.floor(Math.random() * 100) + 200; // Random value between 200 and 300
+            var dotr = Math.floor(Math.random() * 20) + 30; // Random value between 30 and 50
+            var caprx = 450; // Keeping constant for this example
+            var capry = 550; // Keeping constant for this example
+            var cap_color = "#" + Math.floor(Math.random()*16777215).toString(16);
+            var mid_color = "#" + Math.floor(Math.random()*16777215).toString(16);
+            var stalk_color = "#" + Math.floor(Math.random()*16777215).toString(16);
 
-            if (addrays == true){
-                    return header + raypath + rays + sungradient + sunclip + suncircle + `</svg>`;
-                } else {
-                    return header + sungradient + sunclip + suncircle + `</svg>`;
-                }
-    }
+            console.log(stalky);
 
-        const sun_div = document.getElementById("mySun");
-        console.log(sunshape())
-        sun_div.innerHTML += sunshape();
-        sun_div.innerHTML += sunshape(addrays = false);
-        
+            // Update custom-mushroom element attributes
+            var mushroom = document.getElementById('mushroomElement');
+            mushroom.setAttribute('stalky', stalky);
+            mushroom.setAttribute('dotr', dotr);
+            mushroom.setAttribute('caprx', caprx);
+            mushroom.setAttribute('capry', capry);
+            mushroom.setAttribute('cap_color', cap_color);
+            mushroom.setAttribute('mid_color', mid_color);
+            mushroom.setAttribute('stalk_color', stalk_color);
+        }
     </script>
+</body>
 </html>
-
