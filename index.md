@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## About Me
+## About 
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="kristine.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am currently a predoctorate research fellow at Stanford with Dr. Judith Fan in the [Cognitive Tools Lab](https://cogtoolslab.github.io/). In Spring 2024, I graduated from MIT with a degree in Computer Science and Brain and Cognitive Science. I worked closely with 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+<!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
 ## Research Interest
 
@@ -19,7 +19,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Typography
+
+
+<!-- ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -33,13 +35,13 @@ Year | Award | Category
 
 Here is a horizontal rule
 
----
+--- -->
 
-Here is a blockquote
+<!-- Here is a blockquote
 
 > To a great mind, nothing is little
 
 ## References
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* John Doe: Associate Professor, Department of Computer Science, Ipsum -->
