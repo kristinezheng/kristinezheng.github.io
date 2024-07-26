@@ -4,7 +4,7 @@ layout: default
 
 ## About 
 
-<img class="profile-picture" src="kristine.jpg">
+<img class="profile-picture" src="kristine.JPG">
 
 Hi! I am currently a predoctorate research fellow at Stanford with Dr. Judith Fan in the [Cognitive Tools Lab](https://cogtoolslab.github.io/). In Spring 2024, I graduated from MIT with a degree in Computer Science and Brain and Cognitive Science. I worked closely with 
 
