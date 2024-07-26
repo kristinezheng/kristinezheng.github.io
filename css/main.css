@@ -173,12 +173,12 @@ hr {
   font-style: italic;
 }
 .content .profile-picture {
-  height: 85px;
-  width: 85px;
+  height: 288px;
+  width: 216px;
   position: relative;
   margin: -10px 0 0 15px;
   float: right;
-  border-radius: 50%;
+  border-radius: 10%;
 }
 p .content .profile-picture {
   padding: 0;

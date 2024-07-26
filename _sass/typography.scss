@@ -1,4 +1,4 @@
-@import "vars";
+@use "vars";
 
 .content {
     a:hover {
@@ -37,12 +37,12 @@
         font-style: italic;
     }
     .profile-picture {
-        height: $image-size;
-        width: $image-size;
+        height: $image-height;
+        width: $image-width;
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
-        border-radius: 50%;
+        border-radius: 10%;
         p & {
             padding: 0;
             margin: 0;
