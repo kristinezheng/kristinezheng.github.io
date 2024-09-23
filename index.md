@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="kristine.JPG">
 
-Hi! I am currently a postbacc research fellow at Stanford with Judith Fan in the [Cognitive Tools Lab](https://cogtoolslab.github.io/). Currently designing experiments and building computational cognitive models, specifically applied to visualizations, formal education, and statistics literacy! 
+Hi! I am currently a postbacc research fellow at Stanford with Judith Fan in the [Cognitive Tools Lab](https://cogtoolslab.github.io/). Currently designing experiments and building computational cognitive models for understanding visualizations, formal education, and statistics literacy! 
 
 Previously, I studied Computer Science and Brain and Cognitive Science, and minored in Women's & Gender Studies at MIT. During my time there, I worked on exciting cognitive & developmental questions with Josh Tenenbaum and Laura Schultz, and on vision models with Jim DiCarlo and Kohitij Kar. I also spent a wonderful summer at Princeton studying reinforcement learning with Yael Niv.
 
