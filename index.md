@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="kristine.JPG">
 
-Hi! I am currently a predoctorate research fellow at Stanford with Dr. Judith Fan in the [Cognitive Tools Lab](https://cogtoolslab.github.io/). In Spring 2024, I graduated from MIT with a degree in Computer Science and Brain and Cognitive Science. 
+Hi! I am currently a postbacc research fellow at Stanford with Judith Fan in the [Cognitive Tools Lab](https://cogtoolslab.github.io/). Previously, I studied Computer Science and Brain and Cognitive Science, and minored in Women's & Gender Studies at MIT. During my time there, I worked with Josh Tenenbaum and Laura Schultz on computational and developmental cognitive science, and with Jim DiCarlo and Kohitij Kar on visual neuroscience. I also spent a summer at Princeton working with Yael Niv on reinforcement learning.
 
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
