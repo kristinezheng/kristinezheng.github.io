@@ -4,7 +4,7 @@ layout: default
 
 ## About 
 
-<img class="profile-picture" src="kristine_headshot.JPG">
+<img class="profile-picture" src="kristine.JPG">
 
 Hi! I am currently a postbacc research fellow at Stanford with Judith Fan in the [Cognitive Tools Lab](https://cogtoolslab.github.io/). I work on experiments and models for understanding visualization and advancing statistics literacy in formal education.
 
