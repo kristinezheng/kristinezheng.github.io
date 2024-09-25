@@ -1,7 +1,7 @@
 ### [MIT Major Arcana Project, 2023](https://mitadmissions.org/blogs/entry/mit-major-arcana/)
 *XX: Judgement / 9: Brain and Cognitive Science*
 <!-- ![tarot](img/bcs_tarot.jpeg) -->
-<img src="img/bcs_tarot" alt="tarot" width="50%"/>
+<img src="img/bcs_tarot.jpeg" alt="tarot" width="50%"/>
 
 ## Traditional Mediums
 
