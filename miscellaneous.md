@@ -1,5 +1,3 @@
-All images on this page are © Kristine Zheng 2024
-
 ### [MIT Major Arcana Project, 2023](https://mitadmissions.org/blogs/entry/mit-major-arcana/)
 *XX: Judgement / 9: Brain and Cognitive Science*
 <!-- ![tarot](img/bcs_tarot.jpeg) -->
@@ -25,3 +23,5 @@ All images on this page are © Kristine Zheng 2024
 <img src="img/img/KristineZheng_sisters.jpg" alt="sisters" width="70%"/>
 
 <!-- *Above: Charcoal* -->
+
+All images on this page are © Kristine Zheng 2024
