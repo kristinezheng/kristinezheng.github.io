@@ -20,7 +20,7 @@
 <!-- ## Sisters (2019) -->
 
 <!-- ![Sisters](img/sisters.jpg) -->
-<img src="img/img/KristineZheng_sisters.jpg" alt="sisters" width="50%"/>
+<img src="img/KristineZheng_sisters.jpg" alt="sisters" width="50%"/>
 
 <!-- *Above: Charcoal* -->
 
