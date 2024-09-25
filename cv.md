@@ -1,4 +1,4 @@
 <object data="KristineZheng.pdf" type="application/pdf" height="842 px" width = "850 px">
   <img src="sherlock.jpg" alt="PDF not found">
-  <p>Download the PDF <a href="KristineZheng.pdf">here</a></p>
+  <p>Download the PDF <a href="kristinezheng/kristinezheng.github.io/media/KristineZheng.pdf">here</a></p>
 </object>
