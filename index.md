@@ -12,6 +12,29 @@ Hi! I am currently a postbacc research fellow at Stanford with Judith Fan in the
 
 Previously, I studied Computer Science and Brain and Cognitive Science, and minored in Women's & Gender Studies at MIT. During my time there, I worked on exciting cognitive & developmental questions with Josh Tenenbaum and Laura Schultz, and on vision models with Jim DiCarlo and Kohitij Kar. I also spent a wonderful summer at Princeton studying reinforcement learning with Yael Niv.
 
+---
+layout: default
+is_contact: true
+---
+
+Email: kxzheng [at] Stanford [dot] edu
+
+<p class="contact-field">
+    <img src="img/icon_scholar.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
+    <a id="scholar-contact" href="https://scholar.google.com/citations?user=sPHe8J4AAAAJ&hl=en&oi=ao"><u>google scholar</u></a>
+</p>
+
+<p class="contact-field">
+    <img src="img/icon_twitter.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
+    <a id="X (formerly Twitter)" href="https://x.com/kristinexzheng"><u>twitter</u></a>
+</p>
+	
+<p class="contact-field">
+    <img src="img/icon_linkedin.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
+    <a id="linkedin-contact" href="https://www.linkedin.com/in/kristine-zheng"><u>linkedin</u></a>
+</p>
+
+
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
 <!-- ## Research Interest -->
