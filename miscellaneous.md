@@ -1,8 +1,8 @@
 ## Consuming
 
 * [Books](https://www.goodreads.com/user/show/170344974-kristine) 
-* [Movies](https://letterboxd.com/kxinz/)
-* [Restaurants](https://www.yelp.com/user_details?userid=pUAXjDpxikoUxsoF8qzpJQ)
+<!-- * [Movies](https://letterboxd.com/kxinz/) -->
+<!-- * [Restaurants](https://www.yelp.com/user_details?userid=pUAXjDpxikoUxsoF8qzpJQ) -->
 
 ## Creating
 
