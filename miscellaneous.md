@@ -1,3 +1,11 @@
+## Consuming
+
+* [Books](https://www.goodreads.com/user/show/170344974-kristine) 
+* [Movies](https://letterboxd.com/kxinz/)
+* [Restaurants](https://www.yelp.com/user_details?userid=pUAXjDpxikoUxsoF8qzpJQ)
+
+## Creating
+
 ### [MIT Major Arcana Project, 2023](https://mitadmissions.org/blogs/entry/mit-major-arcana/)
 *XX: Judgement / 9: Brain and Cognitive Science*
 <!-- ![tarot](img/bcs_tarot.jpeg) -->
