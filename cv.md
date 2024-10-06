@@ -5,4 +5,4 @@
 
 <!-- <embed src="media/KristineZheng.pdf" type="application/pdf" height="842" width="850" /> -->
 
-<iframe src="https://kristinezheng.github.io/media/KristineZheng.pdf" width="850" height="842"></iframe>
+<iframe src="https://kristinezheng.github.io/media/KristineZheng_CV.pdf" width="850" height="842"></iframe>
