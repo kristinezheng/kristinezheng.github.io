@@ -12,6 +12,9 @@ Hi! I am currently a postbacc research fellow at Stanford with [**Judy Fan**](ht
 
 Previously, I studied Computer Science and Brain and Cognitive Science, and minored in Women's & Gender Studies at MIT. During my time there, I worked on cognition & development with [**Josh Tenenbaum**](https://cocosci.mit.edu/) and [**Laura Schulz**](https://eccl.mit.edu/), and on vision with [**Jim DiCarlo**](https://dicarlolab.mit.edu/) and [**Kohitij Kar**](https://kohitij.com/). I also spent a wonderful summer at Princeton studying reinforcement learning with [**Yael Niv**](https://nivlab.princeton.edu/).
 
+<br />
+<br />
+<br />
 
 <!-- ---
 layout: default
