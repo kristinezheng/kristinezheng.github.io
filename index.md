@@ -30,12 +30,12 @@ Please reach out if you have any questions or want to chat!
 
 <p class="contact-field">
     <img src="img/icon_scholar.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
-    <a id="scholar-contact" href="https://scholar.google.com/citations?user=sPHe8J4AAAAJ&hl=en&oi=ao"><u>google scholar</u></a>
+    <a id="scholar-contact" href="https://scholar.google.com/citations?user=QzfvdvYAAAAJ&hl=en"><u>google scholar</u></a>
 </p>
 
 <p class="contact-field">
     <img src="img/icon_twitter.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
-    <a id="X (formerly Twitter)" href="https://x.com/kristinexzheng"><u>twitter</u></a>
+    <a id="X (formerly Twitter)" href="https://x.com/kristinexzheng"><u>X (twitter)</u></a>
 </p>
 	
 <p class="contact-field">
