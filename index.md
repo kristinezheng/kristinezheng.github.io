@@ -6,11 +6,9 @@ layout: default
 
 <img class="profile-picture" src="img/kristine.JPG">
 
-Hi! I am currently a postbacc research fellow at Stanford with [**Judy Fan**](https://cogtoolslab.github.io/) (Cognitive Tools Lab). I work on experiments and models for understanding visualization and advancing statistics literacy in formal education.
+Hi! I am currently a research fellow at Stanford with [**Judy Fan**](https://cogtoolslab.github.io/) (Cognitive Tools Lab). I work on experiments and models for understanding visualization and advancing statistics literacy in formal education. Other research projects and interests (i.e. drawings, intuitive physics) include how humans perceive, learn, represent, and predict scenes in the physical world. 
 
-
-
-Previously, I studied Computer Science and Brain & Cognitive Science at MIT with a minor in Women's & Gender Studies. During my time there, I explored cognition & development with [**Josh Tenenbaum**](https://cocosci.mit.edu/) and [**Laura Schulz**](https://eccl.mit.edu/), and vision with [**Jim DiCarlo**](https://dicarlolab.mit.edu/) and [**Kohitij Kar**](https://kohitij.com/). I also spent a wonderful summer at Princeton studying reinforcement learning with [**Yael Niv**](https://nivlab.princeton.edu/).
+Previously, I studied Computer Science and Brain & Cognitive Science at MIT with a minor in Women's & Gender Studies. During my time there, I explored cognition & development with [**Josh Tenenbaum**](https://cocosci.mit.edu/), [**Laura Schulz**](https://eccl.mit.edu/) and [**Vivian Paulun**](https://www.mit.edu/~vpaulun/index.html). I previously modeled vision with [**Jim DiCarlo**](https://dicarlolab.mit.edu/) and [**Kohitij Kar**](https://kohitij.com/). I also spent a wonderful summer at Princeton studying reinforcement learning with [**Yael Niv**](https://nivlab.princeton.edu/).
 
 <br />
 <br />
