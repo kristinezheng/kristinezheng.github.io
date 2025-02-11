@@ -22,3 +22,5 @@ nav:
 #    link: "contact"
  - name: "Misc"
    link: "miscellaneous"
+ - name: "Resources"
+    link: "resources"
