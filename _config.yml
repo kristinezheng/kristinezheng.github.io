@@ -17,9 +17,9 @@ sass:
 
 nav:
  - name: "CV"
-   link: "cv"
+   link: "/cv/"
  - name: "Resources"
-   link: "resources"
+   link: "/resources/"
  - name: "Misc"
-   link: "miscellaneous"
+   link: "/miscellaneous/"
 
