@@ -10,6 +10,9 @@
     * books
     * music
     * graphic novels, manga, & manhwa 
-    * food & photos 
+    * food & cooking & photos 
+    * games 
 * personal style and aesthetics  
 * relationships 
+* dreams (literal) 
+* resting 
