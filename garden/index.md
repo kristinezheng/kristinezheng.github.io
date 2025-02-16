@@ -7,3 +7,5 @@ Topics thus far:
 * Love: [1](./02-15-2025.md#love-stories)
 * AI: [1](./02-15-2025.md#automation)
 * Writing: [1](./02-15-2025.md#writing)
+
+*I'm not using spellcheck haha
