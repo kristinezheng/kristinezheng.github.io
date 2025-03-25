@@ -60,29 +60,4 @@
         width: 100%;
     }
 
-    // show caption when hover over image
-        /* (A) RESPONSIVE IMAGE */
-    .fimg { width: 100%; }
-    .fwrap { max-width: 500px; } /* optional */
-    
-    /* (B) POSITION CAPTION */
-    .fwrap { position: relative; }
-    .fcap {
-    /* (B1) COVER OVER ENTIRE IMAGE */
-    position: absolute; top: 0; left: 0;
-    width: 100%; height: 100%;
-    background: rgba(0, 0, 0, 0.7);
-    
-    /* (B2) CENTER CONTENT */
-    display: flex; justify-content: center; align-items: center;
-    }
-    
-    /* (C) ONLY SHOW CAPTION ON HOVER */
-    .fcap {
-    visibility: none; opacity: 0;
-    transition: opacity 0.3s;
-    }
-    .fwrap:hover .fcap {
-    visibility: visible; opacity: 1;
-    }
 }
