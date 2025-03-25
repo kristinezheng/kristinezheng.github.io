@@ -13,14 +13,15 @@ Pages:
 Topics thus far:
 * Love: [1](./1_02-15-2025.md#love-stories)
 * AI: [1](./1_02-15-2025.md#automation)
-* Writing: [1](./1_02-15-2025.md#writing)
+* Writing: [1](./1_02-15-2025.md#writing), [8][./8_03-14-2025.md]
 * Research: [2](2_02-16-2025.md), [4](./4_02_19_2025.md#computationaldigital-humanities)
 * Existential Crises: [2](./2_02-16-2025.md#existential-crises), [3 (adulthood)](./3_02-16-2025.md#adulthood)
 * Gleaning: [3](./3_02-16-2025.md#gleaning)
 * Learning: [3](./3_02-16-2025.md#learning)
-* Art & Creation: [3](./3_02-16-2025.md#creating), [4](./4_02_19_2025.md#computationaldigital-humanities), [6](./6_02_25_2025.md)
-* Movies/Film: [1](./1_02-15-2025.md#love-stories),[6](./6_02_25_2025.md)
-* Literature & Reading: [4](./4_02_19_2025.md#computationaldigital-humanities), [6](./6_02_25_2025.md)
+* Art & Creation: [3](./3_02-16-2025.md#creating), [4](./4_02-19-2025.md#computationaldigital-humanities), [6](./6_02-25-2025.md)
+* Movies/Film: [1](./1_02-15-2025.md#love-stories),[6](./6_02-25-2025.md)
+* Literature & Reading: [4](./4_02-19-2025.md#computationaldigital-humanities), [6](./6_02-25-2025.md)
+* food and falvors: [9](./9_03-25-2025.md#a-love-letter-to-bitterness-and-sharpness)
 
 
 ----------
