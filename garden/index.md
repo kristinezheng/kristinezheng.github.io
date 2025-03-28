@@ -13,7 +13,7 @@ Pages:
 Topics thus far:
 * Love: [1](./1_02-15-2025.md#love-stories)
 * AI: [1](./1_02-15-2025.md#automation)
-* Writing: [1](./1_02-15-2025.md#writing), [8][./8_03-14-2025.md]
+* Writing: [1](./1_02-15-2025.md#writing), [8](./8_03-14-2025.md)
 * Research: [2](2_02-16-2025.md), [4](./4_02-19-2025.md#computationaldigital-humanities)
 * Existential Crises: [2](./2_02-16-2025.md#existential-crises), [3 (adulthood)](./3_02-16-2025.md#adulthood)
 * Gleaning: [3](./3_02-16-2025.md#gleaning)
