@@ -3,8 +3,8 @@ layout: default
 ---
 
 ## About 
-
-<img class="profile-picture" src="img/kristine.JPG">
+<!-- 
+<img class="profile-picture" src="img/kristine.JPG"> -->
 
 Hi! I am currently a research fellow at Stanford with [**Judy Fan**](https://cogtoolslab.github.io/) (Cognitive Tools Lab). I work on experiments and models for understanding visualization and advancing statistics literacy in formal education. Other research projects and interests (i.e. drawings, intuitive physics) include how humans perceive, learn, represent, and predict scenes in the physical world. 
 
