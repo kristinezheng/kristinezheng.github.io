@@ -1,5 +1,7 @@
 # Welcome to my digital garden
 
+*All very much unpolished stray thoughts !*
+
 Pages:
 * [#1: about love stories, automation, and writing](1_02-15-2025.md)
 * [#2: reflections on first cogsci submissions (& research in general)](2_02-16-2025.md)
