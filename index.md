@@ -6,9 +6,9 @@ layout: default
 <!-- 
 <img class="profile-picture" src="img/kristine.JPG"> -->
 
-Hi! I am currently a research fellow at Stanford with [**Judy Fan**](https://cogtoolslab.github.io/) (Cognitive Tools Lab). I work on experiments and models for understanding visualization and advancing statistics literacy in formal education. Other research projects and interests (i.e. drawings, intuitive physics) include how humans perceive, learn, represent, and predict scenes in the physical world. 
+Hi! I am currently a predoc research fellow at Stanford with [**Judy Fan**](https://cogtoolslab.github.io/) (Cognitive Tools Lab). I develop experiments and models for understanding visualization and advancing statistics literacy in formal education. Other research projects explore game play & design, sketch-based collaboration, and intuitive physics.
 
-Previously, I studied Computer Science and Brain & Cognitive Science at MIT with a minor in Women's & Gender Studies. During my time there, I explored cognition & development with [**Josh Tenenbaum**](https://cocosci.mit.edu/), [**Laura Schulz**](https://eccl.mit.edu/) and [**Vivian Paulun**](https://www.mit.edu/~vpaulun/index.html). I previously modeled vision with [**Jim DiCarlo**](https://dicarlolab.mit.edu/) and [**Kohitij Kar**](https://kohitij.com/). I also spent a wonderful summer at Princeton studying reinforcement learning with [**Yael Niv**](https://nivlab.princeton.edu/).
+Previously, I studied Computer Science and Brain & Cognitive Science at MIT with a minor in Women's & Gender Studies. During my time there, I explored cognition & development with [**Josh Tenenbaum**](https://cocosci.mit.edu/), [**Laura Schulz**](https://eccl.mit.edu/) and [**Vivian Paulun**](https://www.mit.edu/~vpaulun/index.html). I modeled macaque vision with [**Jim DiCarlo**](https://dicarlolab.mit.edu/) and [**Kohitij Kar**](https://kohitij.com/). I also spent a wonderful summer at Princeton studying reinforcement learning with [**Yael Niv**](https://nivlab.princeton.edu/).
 
 <br />
 <br />
@@ -30,16 +30,21 @@ Please reach out if you have any questions or want to chat!
     <img src="img/icon_scholar.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
     <a id="scholar-contact" href="https://scholar.google.com/citations?user=QzfvdvYAAAAJ&hl=en"><u>google scholar</u></a>
 </p>
-
+<!-- 
 <p class="contact-field">
     <img src="img/icon_twitter.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
     <a id="X (formerly Twitter)" href="https://x.com/kristinexzheng"><u>X (twitter)</u></a>
+</p> -->
+
+<p class="contact-field">
+    <img src="img/icon_bluesky.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
+    <a id="Bluesky" href="https://bsky.app/profile/kristinezheng.bsky.social"><u>Bluesky</u></a>
 </p>
 	
-<p class="contact-field">
+<!-- <p class="contact-field">
     <img src="img/icon_linkedin.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
     <a id="linkedin-contact" href="https://www.linkedin.com/in/kristine-zheng"><u>linkedin</u></a>
-</p>
+</p> -->
 
 
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
