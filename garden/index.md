@@ -1,19 +1,20 @@
-# Welcome to my digital garden
+# Welcome to my garden
 
 *All very much unpolished stray thoughts !*
 
 Pages:
 * [#1: about love stories, automation, and writing](1_02-15-2025.md)
-* [#2: reflections on first cogsci submissions (& research in general)](2_02-16-2025.md)
+<!-- * [#2: reflections on first cogsci submissions (& research in general)](2_02-16-2025.md) -->
 * [#3: creating, gleaning, learning, & adulthood](3_02-16-2025.md)
-* [#4: rabbit holes: DH & more](4_02-19-2025.md)
+<!-- * [#4: rabbit holes: DH & more](4_02-19-2025.md) -->
 * [#6: hunger and consuming](6_02-25-2025.md)
 * [#7: the garden](7_03-11-2025.md)
 * [#8: inspirations](8_03-14-2025.md)
 * [#9: short writings about food and nature](9_03-25-2025.md)
-* [#11: growing pains](11_04-25-2025.md)
+* [#10: locomotion](10_04-03-2025.md)
+<!-- * [#11: growing pains](11_04-25-2025.md) -->
 
-Topics thus far:
+Topics thus far *(to be updated)*:
 * Love: [1](./1_02-15-2025.md#love-stories)
 * AI: [1](./1_02-15-2025.md#automation)
 * Writing: [1](./1_02-15-2025.md#writing), [8](./8_03-14-2025.md)

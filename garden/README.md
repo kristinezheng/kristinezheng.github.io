@@ -1,6 +1,6 @@
 # future topics
 
-* adulthood 
+<!-- * adulthood  -->
 * responsibility
 * perfectionism & procrastination 
 * an ideal future
