@@ -11,6 +11,7 @@ Pages:
 * [#7: the garden](7_03-11-2025.md)
 * [#8: inspirations](8_03-14-2025.md)
 * [#9: short writings about food and nature](9_03-25-2025.md)
+* [#11: growing pains](11_04-25-2025.md)
 
 Topics thus far:
 * Love: [1](./1_02-15-2025.md#love-stories)
