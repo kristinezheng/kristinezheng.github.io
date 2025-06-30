@@ -6,6 +6,7 @@
 * "I live in constant fear and anticipation of, 'When will I platau and when will I begin to decline?' ... 'when I arrive at that plateau, it will be both devastating and completely liberating.' " "Are you more worried about not being a good mother or not being a good artist?" - [Michelle Zauner](https://www.interviewmagazine.com/music/michelle-zauner-is-japanese-breakfast-but-at-what-cost)
 * "Should we try to discipline our desires? No! No!!" - [Kathy Chow](https://thepointmag.com/examined-life/on-loving-white-boys/)
 * "Every great and original writer, in proportion as he is great and original, must himself create the taste by which he is to be relished." - William Wordsworth
+* "There are worlds within worlds within worlds" - [description of On Looking by A. H.](https://www.simonandschuster.com/books/On-Looking/Alexandra-Horowitz/9781439191262)
 
 # to be parsed
 
@@ -49,6 +50,7 @@ Breakfast—But at What Cost?](https://www.interviewmagazine.com/music/michelle-
 * monad
 * toska 
 * saudade 
+* 
 
 
 
