@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am currently a predoc research fellow at Stanford with [**Judy Fan**](https://cogtoolslab.github.io/) (Cognitive Tools Lab). I develop experiments and models for understanding visualization and advancing statistics literacy in formal education. My research projects explore game play & design, sketch-based collaboration, and intuitive physics.
 
-Previously, I studied Computer Science and Brain & Cognitive Science at MIT with a minor in Women's & Gender Studies. During my time there, I explored cognition & development with [**Josh Tenenbaum**](https://cocosci.mit.edu/), [**Laura Schulz**](https://eccl.mit.edu/), [**Max Siegel**](https://web.mit.edu/maxs/www/) & [**Vivian Paulun**](https://www.mit.edu/~vpaulun/index.html). I modeled macaque vision with [**Jim DiCarlo**](https://dicarlolab.mit.edu/) and [**Kohitij Kar**](https://kohitij.com/). I also spent a wonderful summer at Princeton studying reinforcement learning with [**Yael Niv**](https://nivlab.princeton.edu/).
+Previously, I studied Computer Science and Brain & Cognitive Science at MIT with a minor in Women's & Gender Studies. During my time there, I explored cognition & development with [**Josh Tenenbaum**](https://cocosci.mit.edu/), [**Laura Schulz**](https://eccl.mit.edu/), [**Max Siegel**](https://web.mit.edu/maxs/www/) & [**Vivian Paulun**](https://www.mit.edu/~vpaulun/index.html). I modeled macaque vision with [**Jim DiCarlo**](https://dicarlolab.mit.edu/) and [**Kohitij Kar**](https://kohitij.com/). I also spent a wonderful summer at Princeton studying reinforcement learning with [**Yael Niv**](https://nivlab.princeton.edu/) and [**Rachel Bedder**](https://www.rachelbedder.com/).
 
 <br />
 <br />
