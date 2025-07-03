@@ -38,7 +38,7 @@ Please reach out if you have any questions or want to chat!
 
 <p class="contact-field">
     <img src="img/icon_bluesky.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
-    <a id="Bluesky" href="https://bsky.app/profile/kristinezheng.bsky.social"><u>Bluesky</u></a>
+    <a id="bluesky" href="https://bsky.app/profile/kristinezheng.bsky.social"><u>bluesky</u></a>
 </p>
 	
 <!-- <p class="contact-field">
