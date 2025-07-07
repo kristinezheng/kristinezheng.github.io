@@ -11,6 +11,7 @@
 ## cs / etc
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 * [Foundations of Computer Vision Online Textbook](https://visionbook.mit.edu/)
+* [ML papers](https://github.com/dair-ai/ML-Papers-Explained)
 
 ## other 
 * [152 Visual Phenomena & Optical Illusions with explanations by Michael Bach](https://michaelbach.de/ot/): featuring illusions with reference papers
