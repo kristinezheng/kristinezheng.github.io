@@ -6,9 +6,9 @@ layout: default
 <!-- 
 <img class="profile-picture" src="img/kristine.JPG"> -->
 
-Hi! I am currently a predoc research fellow at Stanford with [**Judy Fan**](https://cogtoolslab.github.io/) (Cognitive Tools Lab). I develop experiments and models for understanding visualization and advancing statistics literacy in formal education. Other research projects explore game play & design, sketch-based collaboration, and intuitive physics.
+Hi! I am currently a predoc research fellow at Stanford with [**Judy Fan**](https://cogtoolslab.github.io/) (Cognitive Tools Lab). I develop experiments and models for understanding visualization and advancing statistics literacy in formal education. My research projects explore game play & design, sketch-based collaboration, and intuitive physics.
 
-Previously, I studied Computer Science and Brain & Cognitive Science at MIT with a minor in Women's & Gender Studies. During my time there, I explored cognition & development with [**Josh Tenenbaum**](https://cocosci.mit.edu/), [**Laura Schulz**](https://eccl.mit.edu/) and [**Vivian Paulun**](https://www.mit.edu/~vpaulun/index.html). I modeled macaque vision with [**Jim DiCarlo**](https://dicarlolab.mit.edu/) and [**Kohitij Kar**](https://kohitij.com/). I also spent a wonderful summer at Princeton studying reinforcement learning with [**Yael Niv**](https://nivlab.princeton.edu/).
+In 2024, I graduated from MIT with a major in Computer Science and Brain & Cognitive Science and a minor in Women's & Gender Studies. During my time there, I studied physical reasoning (e.g. materials, stability) with [**Josh Tenenbaum**](https://cocosci.mit.edu/), [**Laura Schulz**](https://eccl.mit.edu/), [**Max Siegel**](https://web.mit.edu/maxs/www/) & [**Vivian Paulun**](https://www.mit.edu/~vpaulun/index.html). I modeled macaque vision with [**Jim DiCarlo**](https://dicarlolab.mit.edu/) and [**Kohitij Kar**](https://kohitij.com/). I also spent a wonderful summer at Princeton exploring the latent state inference process with [**Yael Niv**](https://nivlab.princeton.edu/) and [**Rachel Bedder**](https://www.rachelbedder.com/).
 
 <br />
 <br />
@@ -38,7 +38,7 @@ Please reach out if you have any questions or want to chat!
 
 <p class="contact-field">
     <img src="img/icon_bluesky.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
-    <a id="Bluesky" href="https://bsky.app/profile/kristinezheng.bsky.social"><u>Bluesky</u></a>
+    <a id="bluesky" href="https://bsky.app/profile/kristinezheng.bsky.social"><u>bluesky</u></a>
 </p>
 	
 <!-- <p class="contact-field">
