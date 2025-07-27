@@ -6,9 +6,9 @@ layout: default
 <!-- 
 <img class="profile-picture" src="img/kristine.JPG"> -->
 
-Hi! I am currently a predoc research fellow at Stanford with [**Judy Fan**](https://cogtoolslab.github.io/) (Cognitive Tools Lab). I develop experiments and models for understanding visualization and advancing statistics literacy in formal education. My research projects explore game play & design, sketch-based collaboration, and intuitive physics.
+Hi! I am currently a predoc research fellow at Stanford with [**Judy Fan**](https://cogtoolslab.github.io/) (Cognitive Tools Lab). My research projects explore learning in classrooms, game play & design, sketch-based collaboration, and intuitive physics. 
 
-In 2024, I graduated from MIT with a major in Computer Science and Brain & Cognitive Science and a minor in Women's & Gender Studies. During my time there, I studied physical reasoning (e.g. materials, stability) with [**Josh Tenenbaum**](https://cocosci.mit.edu/), [**Laura Schulz**](https://eccl.mit.edu/), [**Max Siegel**](https://web.mit.edu/maxs/www/) & [**Vivian Paulun**](https://www.mit.edu/~vpaulun/index.html). I modeled macaque vision with [**Jim DiCarlo**](https://dicarlolab.mit.edu/) and [**Kohitij Kar**](https://kohitij.com/). I also spent a wonderful summer at Princeton exploring the latent state inference process with [**Yael Niv**](https://nivlab.princeton.edu/) and [**Rachel Bedder**](https://www.rachelbedder.com/).
+I graduated from MIT with a major in Computer Science and Brain & Cognitive Science and a minor in Women's & Gender Studies in 2024. During my time there, I studied physical reasoning (e.g. materials, stability) with [**Josh Tenenbaum**](https://cocosci.mit.edu/), [**Laura Schulz**](https://eccl.mit.edu/), [**Max Siegel**](https://web.mit.edu/maxs/www/) & [**Vivian Paulun**](https://www.mit.edu/~vpaulun/index.html). I modeled macaque vision with [**Jim DiCarlo**](https://dicarlolab.mit.edu/) and [**Kohitij Kar**](https://kohitij.com/). I also spent a wonderful summer at Princeton studying latent state inference with [**Yael Niv**](https://nivlab.princeton.edu/) and [**Rachel Bedder**](https://www.rachelbedder.com/).
 
 <br />
 <br />
@@ -22,23 +22,22 @@ is_contact: true
 ---
 ## Contact
 
-Please reach out if you have any questions or want to chat! 
-
 **Email:** kxzheng [at] Stanford [dot] edu
 
 <p class="contact-field">
     <img src="img/icon_scholar.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
     <a id="scholar-contact" href="https://scholar.google.com/citations?user=QzfvdvYAAAAJ&hl=en"><u>google scholar</u></a>
 </p>
-<!-- 
-<p class="contact-field">
-    <img src="img/icon_twitter.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
-    <a id="X (formerly Twitter)" href="https://x.com/kristinexzheng"><u>X (twitter)</u></a>
-</p> -->
 
 <p class="contact-field">
     <img src="img/icon_bluesky.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
     <a id="bluesky" href="https://bsky.app/profile/kristinezheng.bsky.social"><u>bluesky</u></a>
+</p>
+
+
+<p class="contact-field">
+    <img src="img/icon_twitter.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
+    <a id="Twitter" href="https://x.com/kristinexzheng"><u>X (twitter)</u></a>
 </p>
 	
 <!-- <p class="contact-field">
