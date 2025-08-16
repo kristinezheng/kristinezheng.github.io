@@ -41,10 +41,12 @@
         // $image-height;
         // width: 216px;
         // $image-width;
+        max-height: 100px;
+        max-width: 150px;
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
-        border-radius: 10%;
+        border-radius: 20%;
         p & {
             padding: 0;
             margin: 0;

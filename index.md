@@ -3,8 +3,8 @@ layout: default
 ---
 
 ## About 
-<!-- 
-<img class="profile-picture" src="img/kristine.JPG"> -->
+
+<img class="profile-picture" src="img/kristine_headshot.png" style="width:150px; height:auto;">
 
 Hi! I am currently a predoc research fellow at Stanford with [**Judy Fan**](https://cogtoolslab.github.io/) (Cognitive Tools Lab). My research projects explore learning in classrooms, game play & design, sketch-based collaboration, and intuitive physics. 
 

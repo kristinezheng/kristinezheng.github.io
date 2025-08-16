@@ -11,7 +11,9 @@
 ## cs / etc
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 * [Foundations of Computer Vision Online Textbook](https://visionbook.mit.edu/)
-* [ML papers](https://github.com/dair-ai/ML-Papers-Explained)
+* [ML papers explained](https://github.com/dair-ai/ML-Papers-Explained)
+* [Intuition of LLMS](https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-166cf2fb278a)
+<!-- * [transformers explained](https://poloclub.github.io/transformer-explainer/) -->
 
 ## other 
 * [152 Visual Phenomena & Optical Illusions with explanations by Michael Bach](https://michaelbach.de/ot/): featuring illusions with reference papers
