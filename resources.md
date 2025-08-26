@@ -5,8 +5,10 @@
 
 ### data, modeling, experiments
 * [probabilistic models of cognition](https://probmods.org/): online textbook
-* [niv lab technical resources](https://nivlab.github.io/): jspsych demos, datasets, etc
+* [algorithms for decision making textbook](https://algorithmsbook.com/decisionmaking/#outline)
 * [neuromatch computational neuroscience textbook](https://compneuro.neuromatch.io/tutorials/intro.html)
+* [niv lab technical resources](https://nivlab.github.io/): jspsych demos, datasets, etc
+<!-- * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) -->
 
 ## cs / etc
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)

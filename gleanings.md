@@ -7,6 +7,7 @@
 * "Should we try to discipline our desires? No! No!!" - [Kathy Chow](https://thepointmag.com/examined-life/on-loving-white-boys/)
 * "Every great and original writer, in proportion as he is great and original, must himself create the taste by which he is to be relished." - William Wordsworth
 * "There are worlds within worlds within worlds" - [description of On Looking by A. H.](https://www.simonandschuster.com/books/On-Looking/Alexandra-Horowitz/9781439191262)
+* "A writer, like a cinematographer, manipulates the viewer's perspective on an ongoing story, with the verbal equivalents of camera angles and quick cuts"-- sense of style, pinker
 
 # to be parsed
 
@@ -27,6 +28,7 @@ Breakfast—But at What Cost?](https://www.interviewmagazine.com/music/michelle-
 * [garden history](https://maggieappleton.com/garden-history/)
 * [Are.na: "a toolkit for assembling new worlds from the scraps of the old"](https://www.are.na/)
 * Taste: [Taste is a guide for what is worthwhile](https://jzhao.xyz/posts/aesthetics-and-taste)
+* [the rage of research](https://ldeming.posthaven.com/the-rage-of-research)
 
 # interesting websites
 
@@ -40,6 +42,8 @@ Breakfast—But at What Cost?](https://www.interviewmagazine.com/music/michelle-
 * [on hearing, language, and meanings reddit](https://www.reddit.com/r/AskReddit/comments/ttya2/reddit_ive_answered_a_lot_your_questions_about/?rdt=50813)
 * [the marginalian: blog](https://www.themarginalian.org/)
 * [the food timeline](https://www.foodtimeline.org/)
+* [the creative independent](https://thecreativeindependent.com/)
+* [byline](https://www.bylinebyline.com/)
 
 # language
 * escher sentence 
