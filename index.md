@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am currently a predoc research fellow at Stanford with [**Judy Fan**](https://cogtoolslab.github.io/) (Cognitive Tools Lab). My research projects explore learning in classrooms, game play & design, sketch-based collaboration, and intuitive physics. 
 
-I graduated from MIT with a major in Computer Science and Brain & Cognitive Science and a minor in Women's & Gender Studies in 2024. During my time there, I studied physical reasoning (e.g. materials, stability) with [**Josh Tenenbaum**](https://cocosci.mit.edu/), [**Laura Schulz**](https://eccl.mit.edu/), [**Max Siegel**](https://web.mit.edu/maxs/www/) & [**Vivian Paulun**](https://www.mit.edu/~vpaulun/index.html). I modeled macaque vision with [**Jim DiCarlo**](https://dicarlolab.mit.edu/) and [**Kohitij Kar**](https://kohitij.com/). I also spent a wonderful summer at Princeton studying latent state inference with [**Yael Niv**](https://nivlab.princeton.edu/) and [**Rachel Bedder**](https://www.rachelbedder.com/).
+I graduated from MIT with a major in Computer Science and Brain & Cognitive Science and a minor in Women's & Gender Studies in 2024. During my time there, I studied physical reasoning (e.g. materials, stability) with [**Josh Tenenbaum**](https://cocosci.mit.edu/), [**Laura Schulz**](https://eccl.mit.edu/), [**Max Siegel**](https://web.mit.edu/maxs/www/) & [**Vivian Paulun**](https://www.mit.edu/~vpaulun/index.html). I tested models of primate vision with [**Jim DiCarlo**](https://dicarlolab.mit.edu/) and [**Kohitij Kar**](https://kohitij.com/). I also spent a wonderful summer at Princeton studying latent state inference with [**Yael Niv**](https://nivlab.princeton.edu/) and [**Rachel Bedder**](https://www.rachelbedder.com/).
 
 <br />
 <br />

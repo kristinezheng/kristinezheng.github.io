@@ -44,6 +44,9 @@ Breakfast—But at What Cost?](https://www.interviewmagazine.com/music/michelle-
 * [the food timeline](https://www.foodtimeline.org/)
 * [the creative independent](https://thecreativeindependent.com/)
 * [byline](https://www.bylinebyline.com/)
+* [open game data](https://opengamedata.fielddaylab.wisc.edu/about.php)
+* [opie archive: children's games](https://www.opiearchive.org/)
+* [DraCor: european drama corpora](https://dracor.org/)
 
 # language
 * escher sentence 
