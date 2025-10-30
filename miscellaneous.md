@@ -4,11 +4,11 @@
 <!-- * [Movies](https://letterboxd.com/kxinz/) -->
 <!-- * [Restaurants](https://www.yelp.com/user_details?userid=pUAXjDpxikoUxsoF8qzpJQ) -->
 
-## Communities
+<!-- ## Communities
 
 * [DH](https://dh.mit.edu/home/)
 * [MINCE](https://www.mitmince.com/)
-* UA Innovation: [Banana Lounge](https://www.instagram.com/mitbananalounge/?utm_medium=copy_link) & Craft Market 
+* UA Innovation: [Banana Lounge](https://www.instagram.com/mitbananalounge/?utm_medium=copy_link) & Craft Market  -->
 
 ## Creations
 
