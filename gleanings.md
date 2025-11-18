@@ -8,6 +8,7 @@
 * "Every great and original writer, in proportion as he is great and original, must himself create the taste by which he is to be relished." - William Wordsworth
 * "There are worlds within worlds within worlds" - [description of On Looking by A. H.](https://www.simonandschuster.com/books/On-Looking/Alexandra-Horowitz/9781439191262)
 * "A writer, like a cinematographer, manipulates the viewer's perspective on an ongoing story, with the verbal equivalents of camera angles and quick cuts"-- sense of style, pinker
+* " She saw more degrees of freedom than I did, and acted on it...Having learned how to pick things apart and build them back together, my grandparents had a more granular view of the world. They could tinker with and adapt the world around them to better fit their needs." -- [Henrik Karlsson](https://substack.com/home/post/p-169322287?source=queue)
 
 # to be parsed
 
@@ -29,6 +30,7 @@ Breakfast—But at What Cost?](https://www.interviewmagazine.com/music/michelle-
 * [Are.na: "a toolkit for assembling new worlds from the scraps of the old"](https://www.are.na/)
 * Taste: [Taste is a guide for what is worthwhile](https://jzhao.xyz/posts/aesthetics-and-taste)
 * [the rage of research](https://ldeming.posthaven.com/the-rage-of-research)
+*[Hertzmann - My Journey in Art and Computing, So Far](https://aaronhertzmann.com/2024/08/19/journey.html)
 
 # interesting websites
 

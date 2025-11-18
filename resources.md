@@ -3,12 +3,12 @@
 * [womenincocosci.com](https://womenincocosci.com/index.html): career resources, [list of cocosci researchers and labs](https://womenincocosci.com/cocosci.html)
 * [open encyclopedia of cognitive science](https://oecs.mit.edu/): key topics in the field
 
-    ### experiment and modeling resources 
-    * [probabilistic models of cognition](https://probmods.org/): online textbook
-    * [algorithms for decision making textbook](https://algorithmsbook.com/decisionmaking/#outline)
-    * [neuromatch computational neuroscience textbook](https://compneuro.neuromatch.io/tutorials/intro.html)
-    * [niv lab technical resources](https://nivlab.github.io/): jspsych demos, datasets, etc
-    <!-- * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) -->
+### experiment and modeling resources 
+* [probabilistic models of cognition](https://probmods.org/): online textbook
+* [algorithms for decision making textbook](https://algorithmsbook.com/decisionmaking/#outline)
+* [neuromatch computational neuroscience textbook](https://compneuro.neuromatch.io/tutorials/intro.html)
+* [niv lab technical resources](https://nivlab.github.io/): jspsych demos, datasets, etc
+<!-- * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) -->
 
 ## foundations in computer science and machine learning 
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
