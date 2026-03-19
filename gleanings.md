@@ -49,6 +49,7 @@ Breakfast—But at What Cost?](https://www.interviewmagazine.com/music/michelle-
 * [open game data](https://opengamedata.fielddaylab.wisc.edu/about.php)
 * [opie archive: children's games](https://www.opiearchive.org/)
 * [DraCor: european drama corpora](https://dracor.org/)
+* [pagat: Card Games and Tile Games from around the World](https://www.pagat.com/)
 
 # language
 * escher sentence 
