@@ -18,6 +18,7 @@
 <!-- * [transformers explained](https://poloclub.github.io/transformer-explainer/) -->
 <!-- * [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/index.html#why-does-this-book-exist)-->
 <!-- * [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/psych252book/) -->
+<!-- * https://brendenlake.github.io/CCM-site/  -->
 
 ## other inspirations
 * [152 Visual Phenomena & Optical Illusions with explanations by Michael Bach](https://michaelbach.de/ot/): suite of illusions and corresponding papers
