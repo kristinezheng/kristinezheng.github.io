@@ -43,5 +43,5 @@
 
 <!-- *Above: Charcoal* -->
 
-All images on this page are © Kristine X. Zheng 2025
+All images on this page are © Kristine X. Zheng 2026
 
