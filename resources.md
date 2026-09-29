@@ -24,5 +24,6 @@
 * [152 Visual Phenomena & Optical Illusions with explanations by Michael Bach](https://michaelbach.de/ot/): suite of illusions and corresponding papers
 * [The pudding](https://pudding.cool): visual essays with data (visualizations!)
 * [Opie & Opie Archive](https://www.opiearchive.org/): archive of children's games, songs, jokes, etc. from 1950s- Britain 
+* [On the Value of Doing a PhD in the Age of AI](https://web.mit.edu/phillipi/www/writing/PhD-in-age-of-AI.html) by Phillip Isola 
 <!-- * [How to write a scientific paper in fifteen steps](https://doi.org/10.1371/journal.pcbi.1013505) -->
 
