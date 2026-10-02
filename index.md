@@ -22,7 +22,7 @@ is_contact: true
 ---
 ## Contact
 
-**Email:** kxzheng [at] Stanford [dot] edu
+**Email:** kxzheng [at] stanford [dot] edu
 
 <p class="contact-field">
     <img src="img/icon_scholar.png" class="contact-img" alt="photo" style="width: 25px">
