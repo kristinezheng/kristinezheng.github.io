@@ -5,5 +5,6 @@
 * How do we decide what combinations of ideas will work well together? (e.g. making art, writing books, developing recipes)
 
 ------------
+Human generated !
 Last updated: 04/25/2025
 Created: 03/30/2025
