@@ -52,6 +52,7 @@ Breakfast—But at What Cost?](https://www.interviewmagazine.com/music/michelle-
 * [pagat: Card Games and Tile Games from around the World](https://www.pagat.com/)
 * [ASL-LEX: Visualizing the ASL Lexicon](https://asl-lex.org/)
 * [Buttolph Collection of Menus](https://pudding.cool/2026/06/menu-collection/)
+* [Screen Slate: Cinematic Excellence](http://screenslate.com/)
 
 # language
 * escher sentence 
