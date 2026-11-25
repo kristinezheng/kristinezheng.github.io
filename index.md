@@ -24,6 +24,7 @@ is_contact: true
 ## Contact
 
 **Email:** kxzheng [at] stanford [dot] edu
+
 [X](https://x.com/kristinexzheng), [Bluesky](https://bsky.app/profile/kristinezheng.bsky.social), [Google Scholar](https://scholar.google.com/citations?user=QzfvdvYAAAAJ&hl=en)
 
 <!-- <p class="contact-field">
