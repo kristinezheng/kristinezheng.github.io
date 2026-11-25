@@ -24,7 +24,7 @@ is_contact: true
 
 **Email:** kxzheng [at] stanford [dot] edu
 
-<p class="contact-field">
+<!-- <p class="contact-field">
     <img src="img/icon_scholar.png" class="contact-img" alt="photo" style="width: 25px">
     <a id="scholar-contact" href="https://scholar.google.com/citations?user=QzfvdvYAAAAJ&hl=en"><u>google scholar</u></a>
 </p>
@@ -38,7 +38,7 @@ is_contact: true
 <p class="contact-field">
     <img src="img/icon_twitter.png" class="contact-img" alt="photo" style="width: 25px">
     <a id="Twitter" href="https://x.com/kristinexzheng"><u>X (twitter)</u></a>
-</p>
+</p> -->
 	
 <!-- <p class="contact-field">
     <img src="img/icon_linkedin.png" class="contact-img" alt="photo" style="height: 25px; width: 25px">
